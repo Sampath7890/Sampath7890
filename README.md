@@ -25,5 +25,5 @@ AI & Machine Learning Basics
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📬 Connect with Me
-💼 linkedin : din.com/in/g-sampath-kumar-9528ba322/
+💼 linkedin :www.linkedin.com/in/g-sampath-kumar-9528ba322
 📧 Email: gsksd64@gmail.com
