@@ -16,7 +16,7 @@ Databases: Basic DBMS & SQL
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tools: VS Code, Git & GitHub
 
-🌱 Currently Learning
+🌱 Currently Learning.
 Full Stack Development (HTML, CSS, JS)
 C++ Programming
 AI & Machine Learning Basics
