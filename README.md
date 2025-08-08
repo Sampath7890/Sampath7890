@@ -1,15 +1,15 @@
 👋 Hi, I'm Sampath!
 🚀 About Me
 
-🎓 BTech CSE (AI & ML) | 1st Year | 2nd Semester
+🎓 BTech CSE (AI & ML) | 2nd Year | 1st Semester
 💡 Exploring AI, Full Stack Development & No-Code Platforms
-💻 Learning C, C++, Python (for Automation), and Web Development
+💻 Learning C, java, Python 
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🛠️ Tech Stack.
-Languages: C, C++, Python, JavaScript
+Languages: C, python, java
 Web: HTML, CSS, JavaScript
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
