@@ -4,7 +4,7 @@
 🎓 BTech CSE (AI & ML) | 2nd Year | 1st Semester
 💡 Exploring AI, Full Stack Development & No-Code Platforms
 💻 Learning C, java, Python 
-
+      CURRENTLY EXPLORING OPENSOURCE 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
