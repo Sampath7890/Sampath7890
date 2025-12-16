@@ -1,7 +1,7 @@
 👋 Hi, I'm Sampath!
 🚀 About Me
 
-🎓 BTech CSE (AI & ML) | 2nd Year | 1st Semester
+🎓 BTech CSE (AI & ML) | 2nd Year | 2nd Semester
 💡 Exploring AI, Full Stack Development & No-Code Platforms
 💻 Learning C, java, Python 
       CURRENTLY EXPLORING OPENSOURCE 
