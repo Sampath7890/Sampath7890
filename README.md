@@ -26,5 +26,6 @@ python
 
 📬 Connect with Me
 
-💼 LinkedIn: https://www.linkedin.com/in/g-sampath-kumar-9528ba322📧 Email: gsksd64@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/g-sampath-kumar-9528ba322📧 
+Email: gsksd64@gmail.com
 
