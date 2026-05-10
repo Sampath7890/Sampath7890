@@ -72,19 +72,5 @@ No deadlines. Just deep understanding.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sampath7890&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampath7890&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sampath7890&theme=tokyonight&hide_border=true" width="60%" />
-</p>
-
----
-
-<p align="center">
   <i>⭐ Star my repos if you find them useful — it means a lot!</i>
 </p>
