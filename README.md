@@ -1,16 +1,16 @@
 <h1 align="center">Hey there, I'm Sampath 👋</h1>
 
 <p align="center">
-  <b>AI & ML Engineer in the making · Web Developer · Freelancer</b><br>
+  <b>AI & ML Engineer in the making · Web Developer · Student</b><br>
   B.Tech CSE (AI & ML) @ Keshav Memorial College of Engineering (KMCE), Hyderabad
 </p>
 
 <p align="center">
-  <a href="https://www.fiverr.com/sampath7890">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
-  </a>
   <a href="https://github.com/Sampath7890">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -20,8 +20,8 @@
 
 - 🎓 3rd year B.Tech CSE (AI & ML) student at **KMCE, Hyderabad**
 - 🤖 Currently learning **Python · Mathematics · Machine Learning · Deep Learning** from scratch
-- 💻 Freelancer on Fiverr — **Custom websites · Web apps · AI automations**
-- 🌱 Building real projects every week as part of a structured self-study plan
+- 💻 Building real projects every week as part of a structured self-study plan
+- 🌱 Passionate about applying AI to solve real-world problems
 - 🎯 Goal: Land a high-paying **AI/ML Engineer** role
 
 ---
@@ -82,16 +82,6 @@ No deadlines. Just deep understanding.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sampath7890&theme=tokyonight&hide_border=true" width="60%" />
 </p>
-
----
-
-## 💼 Freelance Services
-
-Available on **[Fiverr](https://www.fiverr.com/sampath7890)** for:
-- 🌐 Custom websites and web applications
-- 📱 Mobile-responsive UI with React + Tailwind
-- 🤖 AI-powered business automations
-- 🗄️ Full-stack apps with Supabase backend
 
 ---
 
