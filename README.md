@@ -26,7 +26,7 @@
 - 🤖 Currently learning **Python · Mathematics · Machine Learning · Deep Learning** from scratch
 - 💻 Building real projects every week as part of a structured self-study plan
 - 🌱 Passionate about applying AI to solve real-world problems
-- 🎯 Goal: Land a high-paying **AI/ML Engineer** role
+- 🎯 Goal: **AI/ML Engineer** 
 
 ---
 
