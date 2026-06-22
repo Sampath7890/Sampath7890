@@ -16,9 +16,11 @@
 
   <a href="https://www.linkedin.com/in/g-sampath-kumar-9528ba322/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+ </a>
 
-  ![](https://komarev.com/ghpvc/?username=Sampath7890&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-  </a>
+ 
+   ![](https://komarev.com/ghpvc/?username=Sampath7890&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+ 
 </p>
 ---
 
