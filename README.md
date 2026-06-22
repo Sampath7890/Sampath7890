@@ -19,8 +19,8 @@
  </a>
 
  
-   ![](https://komarev.com/ghpvc/?username=Sampath7890&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
- 
+  <a ![](https://komarev.com/ghpvc/?username=Sampath7890&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+ </a>
 </p>
 ---
 
