@@ -56,7 +56,7 @@ No deadlines. Just deep understanding.
 
 | Phase | Topics | Status |
 |-------|--------|--------|
-| Phase 1 | Python · NumPy · Pandas · Linear Regression · Math Foundations | 🔥 In Progress |
+| Phase 1 | Python · NumPy · Pandas · Linear Regression · Math Foundations | completed |
 | Phase 2 | Sklearn Pipelines · Classification · Random Forest · SQL | ⏳ Upcoming |
 | Phase 3 | XGBoost · SHAP · PCA · Streamlit Deployment | ⏳ Upcoming |
 | Phase 4 | Neural Networks · CNNs · RNNs · Transformers · Fine-tuning | ⏳ Upcoming |
