@@ -32,6 +32,7 @@
 - Completed my **Machine Learning foundation phase**
 - Currently learning **Deep Learning** from the ground up
 - Practicing Python, NumPy, pandas, scikit-learn, OpenCV, Streamlit, and AI app development
+- Looking forward to learning **Docker, Kubernetes, and Google Cloud Platform (GCP)**
 - Building in public through structured repositories, weekly projects, and daily learning logs
 - Goal: become a strong **AI/ML Engineer** with both theory and project-building ability
 
@@ -46,6 +47,7 @@
 | OpenCV Track | image/video basics, transformations, contours, face detection roadmap | In Progress |
 | Deep Learning | neural networks, backpropagation, CNNs, RNNs, attention, transformers | Currently Learning |
 | AI Engineering | Streamlit apps, APIs, LLM apps, deployment, databases | Building Projects |
+| Cloud / MLOps | Docker, Kubernetes, Google Cloud Platform | Looking Forward |
 
 ---
 
@@ -72,6 +74,12 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Looking Forward To Learn**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 **Apps / Tools**
 
@@ -132,6 +140,7 @@ Neural Network Basics
    -> Transformers
    -> Transfer Learning
    -> Generative AI
+   -> Docker, Kubernetes, and GCP for deployment
 ```
 
 
