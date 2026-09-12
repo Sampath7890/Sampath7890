@@ -134,20 +134,6 @@ Neural Network Basics
    -> Generative AI
 ```
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sampath7890&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sampath7890&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampath7890&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
-</p>
-
----
 
 ## Connect With Me
 
