@@ -153,6 +153,7 @@ Neural Network Basics
 
 ---
 
+
 <p align="center">
   <b>Learning in public. Building every week. Moving from ML foundations to deep learning step by step.</b>
 </p>
